@@ -4,10 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravanibhumireddy0724-netizen/OrangeHRM.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sravanibhumireddy0724-netizen/OrangeHRM/issues"
+  },
+  "homepage": "https://github.com/sravanibhumireddy0724-netizen/OrangeHRM#readme",
   "devDependencies": {
     "@playwright/test": "^1.62.1",
     "@types/node": "^26.4.0"
